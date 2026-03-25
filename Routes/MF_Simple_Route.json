@@ -1,0 +1,78 @@
+{
+  "routeName": "MF Simple Route",
+  "trafficRate": 5,
+  "ttl": 240.0,
+  "position": [
+    2370.24414,
+    161.319443,
+    11198.8457
+  ],
+  "rotation": [
+    0.0,
+    193.999634,
+    0.0
+  ],
+  "spawnCars": true,
+  "spawnTrucks": true,
+  "spawnBuses": true,
+  "spawnExcavators": true,
+  "markers": [
+    {
+      "markerID": "53401207-3869-478a-bc79-2284cfef7f0b",
+      "type": "TurnTo",
+      "position": [
+        2363.49414,
+        159.8194,
+        11169.2764
+      ],
+      "rotation": [
+        0.0,
+        197.99968,
+        0.0
+      ],
+      "targetMarkerID": "8470d795-22d2-4ef8-8e6e-b234846e703d",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "8470d795-22d2-4ef8-8e6e-b234846e703d",
+      "type": "TurnTarget",
+      "position": [
+        2359.338,
+        159.819336,
+        11138.9414
+      ],
+      "rotation": [
+        0.0,
+        181.999725,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "9e9d5020-8410-444a-b9e5-e7fae77d7208",
+      "type": "Despawn",
+      "position": [
+        2357.84766,
+        159.819336,
+        11087.7471
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    }
+  ]
+}

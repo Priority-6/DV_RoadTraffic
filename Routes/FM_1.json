@@ -1,0 +1,40 @@
+{
+  "routeName": "FM 1",
+  "trafficRate": 1,
+  "ttl": 240.0,
+  "position": [
+    6079.32031,
+    125.847893,
+    6809.21826
+  ],
+  "rotation": [
+    0.0,
+    228.500488,
+    0.0
+  ],
+  "spawnCars": true,
+  "spawnTrucks": true,
+  "spawnBuses": true,
+  "spawnExcavators": true,
+  "markers": [
+    {
+      "markerID": "f4c033ce-5a51-415c-a82d-46a4b539fd90",
+      "type": "Despawn",
+      "position": [
+        5936.46631,
+        124.459328,
+        6682.067
+      ],
+      "rotation": [
+        0.0,
+        227.99971,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    }
+  ]
+}

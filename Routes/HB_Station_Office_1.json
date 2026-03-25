@@ -1,0 +1,553 @@
+{
+  "routeName": "HB Station Office",
+  "trafficRate": 5,
+  "ttl": 240.0,
+  "position": [
+    13077.6016,
+    115.081978,
+    3515.57031
+  ],
+  "rotation": [
+    0.0,
+    44.00011,
+    0.0
+  ],
+  "spawnCars": true,
+  "spawnTrucks": true,
+  "spawnBuses": true,
+  "spawnExcavators": true,
+  "markers": [
+    {
+      "markerID": "cdf662c8-859f-4447-8d80-74fe720867ad",
+      "type": "TurnTarget",
+      "position": [
+        13094.18,
+        113.719337,
+        3546.914
+      ],
+      "rotation": [
+        0.0,
+        16.000042,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "50f14448-cd08-415d-a66d-350b9f883148",
+      "type": "TurnTo",
+      "position": [
+        13089.9414,
+        113.719337,
+        3529.043
+      ],
+      "rotation": [
+        0.0,
+        26.000061,
+        0.0
+      ],
+      "targetMarkerID": "cdf662c8-859f-4447-8d80-74fe720867ad",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "6ac5c31b-0660-46ab-b8f4-10eb2dccb7a8",
+      "type": "TurnTo",
+      "position": [
+        13097.9336,
+        113.680328,
+        3562.8252
+      ],
+      "rotation": [
+        0.0,
+        26.000061,
+        0.0
+      ],
+      "targetMarkerID": "f8b48bbf-0c08-46f4-8524-b9e550db218c",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "f8b48bbf-0c08-46f4-8524-b9e550db218c",
+      "type": "TurnTarget",
+      "position": [
+        13111.8594,
+        113.883514,
+        3589.25781
+      ],
+      "rotation": [
+        0.0,
+        10.00002,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "2019b5e5-9113-49fc-8cb7-66bd91a0f025",
+      "type": "Stop",
+      "position": [
+        13101.1729,
+        113.778091,
+        3570.83
+      ],
+      "rotation": [
+        0.0,
+        32.00008,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "cceb8c9b-ea32-4484-9f94-49e32987f7f3",
+      "type": "TurnTo",
+      "position": [
+        13118.5947,
+        113.719337,
+        3624.20313
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "targetMarkerID": "2006bdc4-7d91-4cfd-ad15-9abf8b089982",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "2006bdc4-7d91-4cfd-ad15-9abf8b089982",
+      "type": "TurnTarget",
+      "position": [
+        13120.0732,
+        113.719337,
+        3641.42676
+      ],
+      "rotation": [
+        0.0,
+        36.0000954,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "5e234c2f-f875-4038-9ee1-324c0b3e2402",
+      "type": "RandomlyTurnTo",
+      "position": [
+        13141.0879,
+        113.806938,
+        3669.832
+      ],
+      "rotation": [
+        0.0,
+        36.0000954,
+        0.0
+      ],
+      "targetMarkerID": "76d1cb31-48e6-445c-bc58-9fcff28c4fd4",
+      "targetMarkerID1": "76d1cb31-48e6-445c-bc58-9fcff28c4fd4",
+      "targetMarkerID2": "083a4d6e-3bf3-4976-bd3c-236b6233bc97",
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "76d1cb31-48e6-445c-bc58-9fcff28c4fd4",
+      "type": "TurnTarget",
+      "position": [
+        13147.8506,
+        113.769333,
+        3670.833
+      ],
+      "rotation": [
+        0.0,
+        74.00023,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "c2fe81d9-46e0-4815-b27c-21811c8de415",
+      "type": "TurnTarget",
+      "position": [
+        13158.6543,
+        113.769333,
+        3677.93652
+      ],
+      "rotation": [
+        0.0,
+        30.0000839,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "fb0c7bff-0fdb-41bd-a247-d87571299e1c",
+      "type": "TurnTo",
+      "position": [
+        13154.6074,
+        113.663742,
+        3672.50781
+      ],
+      "rotation": [
+        0.0,
+        68.00023,
+        0.0
+      ],
+      "targetMarkerID": "c2fe81d9-46e0-4815-b27c-21811c8de415",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "80dccb9d-e1b3-4cb6-8a73-67dcdd38098e",
+      "type": "TurnTo",
+      "position": [
+        13160.9756,
+        113.848785,
+        3682.8457
+      ],
+      "rotation": [
+        0.0,
+        24.0000572,
+        0.0
+      ],
+      "targetMarkerID": "a6263d0d-a7fa-4940-85a0-445fb2f17f8f",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "a6263d0d-a7fa-4940-85a0-445fb2f17f8f",
+      "type": "TurnTarget",
+      "position": [
+        13183.877,
+        113.719337,
+        3692.17969
+      ],
+      "rotation": [
+        0.0,
+        92.5002747,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "c0869767-423d-4336-b4b4-a81a54b4ee0d",
+      "type": "SpeedUp",
+      "position": [
+        13191.88,
+        113.71933,
+        3691.43359
+      ],
+      "rotation": [
+        0.0,
+        88.00024,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "b4b73d4c-907b-491c-b4c5-a1fef0fe90f1",
+      "type": "SpeedUp",
+      "position": [
+        13295.1621,
+        113.71933,
+        3687.29688
+      ],
+      "rotation": [
+        0.0,
+        90.00024,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "010d22b2-f4f2-4066-a35a-d5a85b48aeb6",
+      "type": "TurnTo",
+      "position": [
+        13164.2607,
+        113.544006,
+        3679.912
+      ],
+      "rotation": [
+        0.0,
+        62.00015,
+        0.0
+      ],
+      "targetMarkerID": "54a5c280-bf3c-4b68-9f4e-f4f1c546bc5c",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "54a5c280-bf3c-4b68-9f4e-f4f1c546bc5c",
+      "type": "TurnTarget",
+      "position": [
+        13187.7539,
+        113.719337,
+        3691.86328
+      ],
+      "rotation": [
+        0.0,
+        94.00025,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "dad964cc-c824-418e-ace4-d07f7d775869",
+      "type": "TurnTo",
+      "position": [
+        13164.917,
+        113.544006,
+        3675.80957
+      ],
+      "rotation": [
+        0.0,
+        62.00014,
+        0.0
+      ],
+      "targetMarkerID": "54a5c280-bf3c-4b68-9f4e-f4f1c546bc5c",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "083a4d6e-3bf3-4976-bd3c-236b6233bc97",
+      "type": "TurnTarget",
+      "position": [
+        13139.8418,
+        113.769333,
+        3675.93555
+      ],
+      "rotation": [
+        0.0,
+        331.999939,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "cdfb5e8d-cb76-4123-9bd3-112c56759e56",
+      "type": "TurnTo",
+      "position": [
+        13138.0205,
+        113.769333,
+        3679.07031
+      ],
+      "rotation": [
+        0.0,
+        333.999939,
+        0.0
+      ],
+      "targetMarkerID": "ea01b06b-8fad-4d1b-bfd5-c4ddc34d76ff",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "ea01b06b-8fad-4d1b-bfd5-c4ddc34d76ff",
+      "type": "TurnTarget",
+      "position": [
+        13131.6475,
+        113.71933,
+        3685.06348
+      ],
+      "rotation": [
+        0.0,
+        283.999817,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "23b4031e-be32-4b98-9391-ede36210c8cb",
+      "type": "TurnTo",
+      "position": [
+        13125.52,
+        113.719444,
+        3687.13
+      ],
+      "rotation": [
+        0.0,
+        275.999817,
+        0.0
+      ],
+      "targetMarkerID": "6d25a8ad-f17e-4410-aa15-f2ec52a2b23e",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "6d25a8ad-f17e-4410-aa15-f2ec52a2b23e",
+      "type": "TurnTarget",
+      "position": [
+        13116.8877,
+        113.719429,
+        3687.19336
+      ],
+      "rotation": [
+        0.0,
+        267.999756,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "a4268b58-1cdb-43fe-b8cc-426ed73c0b23",
+      "type": "TurnTo",
+      "position": [
+        13113.6836,
+        113.719406,
+        3687.087
+      ],
+      "rotation": [
+        0.0,
+        267.999817,
+        0.0
+      ],
+      "targetMarkerID": "9eebd031-fe11-41b3-a310-9a0551b47509",
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "9eebd031-fe11-41b3-a310-9a0551b47509",
+      "type": "TurnTarget",
+      "position": [
+        13100.1885,
+        113.719337,
+        3688.998
+      ],
+      "rotation": [
+        0.0,
+        295.499756,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "962c173f-44a5-4e2d-916e-f84dbebea6b2",
+      "type": "SpeedUp",
+      "position": [
+        13091.5742,
+        113.71933,
+        3693.10547
+      ],
+      "rotation": [
+        0.0,
+        295.999847,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 2,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "6a9bea0c-4e0b-488e-be8e-b804ab1389d4",
+      "type": "Despawn",
+      "position": [
+        12820.8115,
+        113.71933,
+        3821.07227
+      ],
+      "rotation": [
+        0.0,
+        291.999847,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 1,
+      "stopSeconds": 3.0
+    },
+    {
+      "markerID": "82090aa0-0bcc-4f22-87e1-dc05dcc6f131",
+      "type": "SpeedUp",
+      "position": [
+        12940.4746,
+        113.71933,
+        3764.50781
+      ],
+      "rotation": [
+        0.0,
+        291.999817,
+        0.0
+      ],
+      "targetMarkerID": null,
+      "targetMarkerID1": null,
+      "targetMarkerID2": null,
+      "speedLevel": 2,
+      "stopSeconds": 3.0
+    }
+  ]
+}
